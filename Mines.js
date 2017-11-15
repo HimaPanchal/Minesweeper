@@ -7,7 +7,6 @@ var exposed = 1;//the number of snapshot cells to keep track of for a win
 var gameLost = false;//flag to check if the game is over or not
 var validGridSize = true;//flag for acceptable gridsize values
 
-
 /*
  * Method:          NewGame
  * Arguments:       void
