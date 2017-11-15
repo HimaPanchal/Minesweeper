@@ -1,0 +1,53 @@
+body {
+    background-color: dimgrey;
+    //font-family: Arial, Helvetica, sans-serif;
+     font-family: 'Lobster', cursive;
+}
+#header {
+    margin: 40px auto;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 30px;
+    text-align: center;
+    border: groove 2px black;
+    border-radius: 30px;
+}
+#content {
+    border: groove 2px brown;
+    border-radius: 30px;
+    text-align: center;
+}
+#options {
+    margin: auto;
+    margin-top: 2%;
+    padding: 0.5%;
+}
+#footer {
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    border: #6affd3;
+    border-radius: 10px;
+    background-color: #6affd3;
+    text-align:center;
+    
+}
+#StartStopButton {
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    
+}
+table {
+    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 2%; 
+    padding: 2%;
+    border: solid 2px blue;
+}
+#board button {
+    width: 50px;
+    height: 50px;
+    background-color:graytext ;
+}
