@@ -2,7 +2,7 @@
 var maxRow;//variables for maximun number of Rows 
 var maxCol;//variables for maximum number of Columns,
 var numMines;//variables for maximum number of Mines
-var cellArray = [];//array of CellArray for the grid
+var cellArray = [];//array of cellArray for the grid
 var exposed = 1;//the number of snapshot cells to keep track of for a win
 var gameLost = false;//flag to check if the game is over or not
 var validGridSize = true;//flag for acceptable gridsize values
